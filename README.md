@@ -1,4 +1,11 @@
-## Hi there 👋
+## ABOUT LEE EUNSUN 👋
+🌱 I’m currently learning...
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+✨ Algorithm Level.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahila6215)](https://solved.ac/dahila6215/)
 
 <!--
 **vgcgc/vgcgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
