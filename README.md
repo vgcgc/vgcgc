@@ -8,7 +8,9 @@
 [ ✨ Algorithm Level ]
 <br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahila6215)](https://solved.ac/dahila6215/)
-
+<br/><br/>
+[ 🔭 My Dev Log ]<br/>
+https://velog.io/@vgcgc/posts
 <!--
 **vgcgc/vgcgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
