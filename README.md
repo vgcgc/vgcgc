@@ -6,16 +6,17 @@
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
 
 <br/><br/>
 [ ✨ Algorithm Level ]
 <br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahila6215)](https://solved.ac/dahila6215/)
 <br/><br/>
+<br/><br/>
 [ 🔭 My Dev Log ]<br/>
 https://velog.io/@vgcgc/posts
 
+<br/><br/>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/vgcgc"/>
 </a>
